@@ -1,0 +1,10 @@
+{
+  "miner": {
+    "description": "A basic miner bot",
+    "programs": [
+      "stepper",
+      "digger",
+      "miner"
+    ]
+  }
+}
